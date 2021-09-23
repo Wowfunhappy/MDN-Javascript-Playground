@@ -1,6 +1,6 @@
 I want to teach a friend basic programming in Javascript.
 
-I want a way for her to write Javascript code, press run, and see console output. Online a browser console, I want the old output to be cleared each time she presses run, or else it's confusing.
+I want a way for her to write Javascript code, press run, and see console output. Unlike in a browser console, I want the old output to be cleared each time she presses run, or else it's confusing.
 
 Why is this so hard to find?!?
 
